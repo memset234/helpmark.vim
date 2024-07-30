@@ -24,7 +24,7 @@ It will automatically output all marks at the cursor position.
 
 If you want to delete a mark, default configuration is use "dm..." to realization.
 
-If you want change the configuration, you can enter the following command in _vimrc:
+If you want to change the configuration, you can enter the following command in _vimrc:
 
 ```
 for ch in g:zmb
