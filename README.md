@@ -14,15 +14,15 @@ The plugin has been implemented:
 - Delete a mark.
 - Add mark identifier.
 
-If you want to create a new mark, you can use `m...` to realization.
+If you want to create a new mark, you can use "m..." to realization.
 
-If you want to jump to a mark, you can use `\`...` or `'...` to realization.
+If you want to jump to a mark, you can use "`..." or "'..." to realization.
 
 These are the same as Vim's key positions.
 
 It will automatically output all marks at the cursor position.
 
-If you want to delete a mark, default configuration is use `dm...` to realization.
+If you want to delete a mark, default configuration is use "dm..." to realization.
 
 If you want change the configuration, you can enter the following command in _vimrc:
 
